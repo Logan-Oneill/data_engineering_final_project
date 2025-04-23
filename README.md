@@ -7,10 +7,10 @@ Authors:
 ## ER Diagrams
 
 - Incidents ER Diagram
-![Incidents ER Diagram](/data_engineering_final_project/incidents_er_diagram.png)
+![Incidents ER Diagram](incidents_er_diagram.png)
 
 - Weather ER Diagram
-![Weather ER Diagram](/data_engineering_final_project/weather_er_diagram.png)
+![Weather ER Diagram](weather_er_diagram.png)
 
 ## Slide Deck
 [Link to presentation slides](https://docs.google.com/presentation/d/12Qu_0WmbdXX9tSxZnjD_Z8iuFmI0pORb7jJCtBie5jI/edit?usp=sharing)
